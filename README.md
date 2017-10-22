@@ -7,7 +7,7 @@ Follwoing steps to setup :-
 3. sudo npm install -g
 4. nail <filename.txt> 
     e.g. 
-    for one file :- 
-              nail myfile.txt 
-    for multiple files :-           
+    for one file :- <br>
+              nail myfile.txt <br>
+    for multiple files :-      <br>     
               nail myfile.txt readme.txt
