@@ -1,0 +1,14 @@
+{
+  "name": "trail-command",
+  "version": "1.0.0",
+  "description": "Linux Tails Command Replica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rakesh Sharma",
+  "license": "ISC",
+  "bin": {
+    "nail": "./index.js"
+  }
+}
